@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232829160703",
+    "project_id": "futech-cc924",
+    "storage_bucket": "futech-cc924.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232829160703:android:154e39951ab063772410ca",
+        "android_client_info": {
+          "package_name": "com.example.basedatosjugadores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbv3ogYAJS3Fbrs-FjPDu9b89BC7--0PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
